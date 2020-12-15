@@ -1,0 +1,6 @@
+1-Crear proyecto en React
+npx create-react-app intro-javascript
+
+2-Iniciar el proyecto
+npm start 
+yarn start
